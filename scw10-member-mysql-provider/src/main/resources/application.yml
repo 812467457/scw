@@ -1,0 +1,27 @@
+server:
+  port: 2000
+spring:
+  application:
+    name: SCW-MYSQL-PROVIDER
+  datasource:
+    name: mydb
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: admin
+    url: jdbc:mysql://localhost:3306/project_crowd?serverTimezone=GMT%2B8&useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+
+#mybatis配置
+mybatis:
+  mapper-locations: classpath*:/mybatis/mapper/*Mapper.xml
+
+#日志
+logging:
+  level:
+    cn.yylm.scw.mapper: debug
+    cn.yylm.scw.test: debug
+    cn.yylm.scw.service: debug

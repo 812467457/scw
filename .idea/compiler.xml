@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scw03-admin-component" />
+        <module name="scw06-common-reverse" />
+        <module name="scw15-member-pay-consumer" />
+        <module name="scw02-admin-webui" />
+        <module name="scw16-member-zuul" />
+        <module name="scw10-member-mysql-provider" />
+        <module name="scw13-member-project-consumer" />
+        <module name="scw2020" />
+        <module name="scw17-member-api" />
+        <module name="scw09-member-entity" />
+        <module name="scw08-member-eureka" />
+        <module name="scw11-member-redis-provider" />
+        <module name="scw18-short-message" />
+        <module name="scw19-spring-session02" />
+        <module name="scw19-spring-session" />
+        <module name="scw05-common-util" />
+        <module name="scw04-admin-entity" />
+        <module name="scw12-member-authentication-consumer" />
+        <module name="scw14-member-order-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="scw01-admin-parent" target="1.8" />
+      <module name="scw02-admin-webui" target="1.8" />
+      <module name="scw03-admin-component" target="1.8" />
+      <module name="scw04-admin-entity" target="1.8" />
+      <module name="scw05-common-util" target="1.8" />
+      <module name="scw06-common-reverse" target="1.8" />
+      <module name="scw07-member-parent" target="1.8" />
+      <module name="scw08-member-eureka" target="1.8" />
+      <module name="scw09-member-entity" target="1.8" />
+      <module name="scw10-member-mysql-provider" target="1.8" />
+      <module name="scw11-member-redis-provider" target="1.8" />
+      <module name="scw12-member-authentication-consumer" target="1.8" />
+      <module name="scw13-member-project-consumer" target="1.8" />
+      <module name="scw14-member-order-consumer" target="1.8" />
+      <module name="scw15-member-pay-consumer" target="1.8" />
+      <module name="scw16-member-zuul" target="1.8" />
+      <module name="scw17-member-api" target="1.8" />
+      <module name="scw18-short-message" target="1.8" />
+      <module name="scw19-spring-session" target="1.8" />
+      <module name="scw19-spring-session02" target="1.8" />
+      <module name="scw2020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

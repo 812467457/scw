@@ -1,0 +1,25 @@
+server:
+  port: 4000
+spring:
+  application:
+    name: SCW-AUTH-CONSUMER
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    #redis主机地址
+    host: localhost
+  session:
+    #springSession配置
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+short:
+  message:
+    app-code: d3aa37a6c9734622989a97469b2a67c7
+    host: https://feginesms.market.alicloudapi.com
+    path: /codeNotice
+    sign: 1
+    skin: 1

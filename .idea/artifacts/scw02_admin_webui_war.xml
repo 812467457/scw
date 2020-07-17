@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="scw02-admin-webui:war">
+    <output-path>$PROJECT_DIR$/scw02-admin-webui/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>scw02-admin-webui</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="scw02-admin-webui.war">
+      <element id="artifact" artifact-name="scw02-admin-webui:war exploded" />
+    </root>
+  </artifact>
+</component>

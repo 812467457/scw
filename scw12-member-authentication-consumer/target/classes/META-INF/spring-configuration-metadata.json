@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "short.message",
+      "type": "cn.yylm.scw.config.ShortMessageProperties",
+      "sourceType": "cn.yylm.scw.config.ShortMessageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "short.message.app-code",
+      "type": "java.lang.String",
+      "sourceType": "cn.yylm.scw.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.message.host",
+      "type": "java.lang.String",
+      "sourceType": "cn.yylm.scw.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.message.path",
+      "type": "java.lang.String",
+      "sourceType": "cn.yylm.scw.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.message.sign",
+      "type": "java.lang.String",
+      "sourceType": "cn.yylm.scw.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.message.skin",
+      "type": "java.lang.String",
+      "sourceType": "cn.yylm.scw.config.ShortMessageProperties"
+    }
+  ],
+  "hints": []
+}

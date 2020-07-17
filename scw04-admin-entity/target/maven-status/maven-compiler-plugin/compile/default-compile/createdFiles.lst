@@ -1,0 +1,10 @@
+cn\yylm\scw\entity\Role.class
+cn\yylm\scw\entity\Admin.class
+cn\yylm\scw\entity\AdminExample$Criteria.class
+cn\yylm\scw\entity\AdminExample.class
+cn\yylm\scw\entity\AdminExample$GeneratedCriteria.class
+cn\yylm\scw\entity\RoleExample$Criterion.class
+cn\yylm\scw\entity\AdminExample$Criterion.class
+cn\yylm\scw\entity\RoleExample$Criteria.class
+cn\yylm\scw\entity\RoleExample.class
+cn\yylm\scw\entity\RoleExample$GeneratedCriteria.class

@@ -1,0 +1,16 @@
+server:
+  port: 6000
+spring:
+  application:
+    name: SCW-ORDER-CONSUMER
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: localhost
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka

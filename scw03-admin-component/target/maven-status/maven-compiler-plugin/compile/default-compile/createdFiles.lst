@@ -1,0 +1,11 @@
+cn\yylm\scw\service\impl\AdminServiceImpl.class
+cn\yylm\scw\service\api\AdminService.class
+cn\yylm\scw\mvc\handler\AdminHandler.class
+cn\yylm\scw\service\api\RoleService.class
+cn\yylm\scw\service\impl\RoleServiceImpl.class
+cn\yylm\scw\mvc\handler\TestHandler.class
+cn\yylm\scw\mapper\AdminMapper.class
+cn\yylm\scw\mvc\interceptor\LoginInterceptor.class
+cn\yylm\scw\mapper\RoleMapper.class
+cn\yylm\scw\mvc\handler\RoleHandler.class
+cn\yylm\scw\mvc\config\CrowdExceptionResolver.class

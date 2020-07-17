@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scw01-admin-parent/scw01-admin-parent.iml" filepath="$PROJECT_DIR$/scw01-admin-parent/scw01-admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw02-admin-webui/scw02-admin-webui.iml" filepath="$PROJECT_DIR$/scw02-admin-webui/scw02-admin-webui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw03-admin-component/scw03-admin-component.iml" filepath="$PROJECT_DIR$/scw03-admin-component/scw03-admin-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw04-admin-entity/scw04-admin-entity.iml" filepath="$PROJECT_DIR$/scw04-admin-entity/scw04-admin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw05-common-util/scw05-common-util.iml" filepath="$PROJECT_DIR$/scw05-common-util/scw05-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw06-common-reverse/scw06-common-reverse.iml" filepath="$PROJECT_DIR$/scw06-common-reverse/scw06-common-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw07-member-parent/scw07-member-parent.iml" filepath="$PROJECT_DIR$/scw07-member-parent/scw07-member-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw08-member-eureka/scw08-member-eureka.iml" filepath="$PROJECT_DIR$/scw08-member-eureka/scw08-member-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw09-member-entity/scw09-member-entity.iml" filepath="$PROJECT_DIR$/scw09-member-entity/scw09-member-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw10-member-mysql-provider/scw10-member-mysql-provider.iml" filepath="$PROJECT_DIR$/scw10-member-mysql-provider/scw10-member-mysql-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw11-member-redis-provider/scw11-member-redis-provider.iml" filepath="$PROJECT_DIR$/scw11-member-redis-provider/scw11-member-redis-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw12-member-authentication-consumer/scw12-member-authentication-consumer.iml" filepath="$PROJECT_DIR$/scw12-member-authentication-consumer/scw12-member-authentication-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw13-member-project-consumer/scw13-member-project-consumer.iml" filepath="$PROJECT_DIR$/scw13-member-project-consumer/scw13-member-project-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw14-member-order-consumer/scw14-member-order-consumer.iml" filepath="$PROJECT_DIR$/scw14-member-order-consumer/scw14-member-order-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw15-member-pay-consumer/scw15-member-pay-consumer.iml" filepath="$PROJECT_DIR$/scw15-member-pay-consumer/scw15-member-pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw16-member-zuul/scw16-member-zuul.iml" filepath="$PROJECT_DIR$/scw16-member-zuul/scw16-member-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw17-member-api/scw17-member-api.iml" filepath="$PROJECT_DIR$/scw17-member-api/scw17-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw18-short-message/scw18-short-message.iml" filepath="$PROJECT_DIR$/scw18-short-message/scw18-short-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw19-spring-session/scw19-spring-session.iml" filepath="$PROJECT_DIR$/scw19-spring-session/scw19-spring-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw19-spring-session02/scw19-spring-session02.iml" filepath="$PROJECT_DIR$/scw19-spring-session02/scw19-spring-session02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scw2020.iml" filepath="$PROJECT_DIR$/.idea/scw2020.iml" />
+    </modules>
+  </component>
+</project>
