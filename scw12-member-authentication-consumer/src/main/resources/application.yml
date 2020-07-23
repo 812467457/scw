@@ -18,7 +18,7 @@ eureka:
       defaultZone: http://localhost:1000/eureka
 short:
   message:
-    app-code: d3aa37a6c9734622989a97469b2a67c7
+    app-code: ****
     host: https://feginesms.market.alicloudapi.com
     path: /codeNotice
     sign: 1
