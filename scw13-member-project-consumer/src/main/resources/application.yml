@@ -18,6 +18,6 @@ aliyun:
   oss:
     end-point: http://oss-cn-beijing.aliyuncs.com
     bucketName: scwdemo
-    accessKeyId: LTAI4GCA5zF3nNbvb46ZLPDP
-    accessKeySecret: pvYUQcmVuzrgz4yv0ZJJcBjktaq3M1
-    bucketDomain: http://scwdemo.oss-cn-beijing.aliyuncs.com
+    accessKeyId: ***
+    accessKeySecret: ****
+    bucketDomain: ****
